@@ -15,3 +15,16 @@ a reproducible and extensible framework for experimentation.
 
 ## Repository Structure
 There's a folder to each step of the method (Classification, diffusion, segmentation and visualizaton)
+
+---
+
+## Dataset
+The datasets used in this work are not publicly available due to size and licensing
+constraints. Instructions for reproducing the experiments are provided.
+
+---
+
+## Requirements
+The requirements for the virtual env is available.
+Diffusion, segmentation and visualization were done in requirements.txt
+Classification was done in requirementsMamba.txt
